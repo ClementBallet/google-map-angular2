@@ -2,4 +2,4 @@
 Intégration de Google Map avec Angular2
 
 
-https://angular-maps.com/
+Ce test se base sur l'environnement de travail que propose ce site : https://angular-maps.com/
